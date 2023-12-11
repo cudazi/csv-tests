@@ -1,0 +1,5 @@
+post_content,post_link,video_url,image_url,scheduled_date,scheduled_time,post_label
+Google drive video content goes here,,http://drive.google.com/uc?id=1JJoGjBwqmFipW-hIdhZTWCcFnRAlRaXo,,01/29/2035,5:00 PM,
+image content goes here,,,https://raw.githubusercontent.com/cudazi/csv-tests/main/1000png.png,01/29/2035,5:00 PM,
+video content goes here,,https://raw.githubusercontent.com/cudazi/csv-tests/main/one-min.mp4,,01/29/2035,5:00 PM,
+link content goes here,https://www.agorapulse.com/blog/influencer-marketing-infographic/,,,01/28/2035,9:00 AM,campaign;newpublished
